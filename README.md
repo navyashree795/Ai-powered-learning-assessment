@@ -1,4 +1,4 @@
-# 🌟 Special Needs Learning Companion (Online Learning Platform)
+# 🌟 AI-Powered Adaptive Assessment
 
 An AI-powered, accessible learning companion designed to empower students with diverse learning needs (including **Dyslexia**, **ADHD**, and **Autism Spectrum**). The platform provides tailored learning experiences, AI-driven adaptive recommendations, speech assistance, multisensory tools, and dedicated portals for parents and educators.
 
@@ -51,7 +51,7 @@ The repository consists of two integrated applications:
 ## 📂 Project Structure
 
 ```text
-online-learning-/
+ai-powered-adaptive-assessment/
 ├── mobile-companion/              # Expo & React Native Mobile App
 │   ├── app/                       # File-based routes (Expo Router)
 │   │   ├── (tabs)/                # Main Tab navigation (Home, Assessment, Teacher, Parent)
